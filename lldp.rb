@@ -1,6 +1,6 @@
 require 'formula'
 
-class lldp < Formula
+class Lldp < Formula
   homepage 'http://www.rockstack.org/'
   url 'http://ftp-osl.osuosl.org/pub/open-lldp/open-lldp-0.9.46.tar.gz'
   sha1 '7369ade51fb8388260d07472e5c54e125ee4466b'
