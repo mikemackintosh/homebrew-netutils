@@ -3,7 +3,7 @@ require 'formula'
 class Lldp < Formula
   homepage 'http://www.open-lldp.org/'
   url 'http://sourceforge.net/settings/mirror_choices?projectname=openlldp&filename=openlldp-0.4alpha.zip'
-  sha1 '353a5843e9bd76c6709fd414293f671e00488f8b'
+  sha1 '404bae6a4fde526625a1a4af895d44a680565e98'
     
   def install
 
